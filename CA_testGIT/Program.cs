@@ -10,6 +10,8 @@ namespace CA_testGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Test lah..");
+            Console.Write("write ");
+            Console.Write("writes");
             Console.ReadKey();
         }
     }
